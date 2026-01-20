@@ -1,5 +1,5 @@
 | ID | Title | Preconditions | Steps | Expected Result | Status |
-|----|------|---------------|-------|----------------|
+|----|------|---------------|-------|----------------|----------|
 | TC-01 | Load home page | None | 1. Open the application URL | Home page loads without errors | Passed |
 | TC-02 | Navigate to Recetas page | Home page loaded | 1. Click on "Recetas" in navbar | Recetas page is displayed | Passed |
 | TC-03 | Smooth navigation between pages | App loaded | 1. Navigate between Inicio and Recetas | Navigation is smooth and without page break | Passed |
