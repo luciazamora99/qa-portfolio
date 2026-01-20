@@ -1,4 +1,4 @@
-**# Test Summary Report**
+# Test Summary Report
 
 ## Test Execution Summary
 - Total test cases: 13
